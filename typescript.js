@@ -4,6 +4,9 @@ module.exports = {
   extends: [
     './recommends/base',
     './rules/typescript',
+    './rules/es6',
+    './rules/react',
+    './rules/react-hooks',
   ].map((e) => require.resolve(e)),
   env: {
     node: true,
