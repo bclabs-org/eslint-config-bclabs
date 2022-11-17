@@ -5,6 +5,7 @@ module.exports = {
     './recommends/base',
     './rules/typescript',
     './rules/es6',
+    './rules/imports',
     './rules/react',
     './rules/react-hooks',
   ].map((e) => require.resolve(e)),
