@@ -48,7 +48,7 @@ module.exports = {
     '@typescript-eslint/prefer-namespace-keyword': 'error',
     '@typescript-eslint/quotes': [
       'error',
-      'double',
+      'single',
       {'allowTemplateLiterals': true }
     ],
     '@typescript-eslint/triple-slash-reference': 'error',
