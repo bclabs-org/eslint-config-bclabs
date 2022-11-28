@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-bclabs",
+  "version": "1.0.0",
+  "description": "Custom eslint reuls by Bclabs.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bclabs-org/eslint-config-bclabs.git"
+  },
+  "author": "Bclabs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bclabs-org/eslint-config-bclabs/issues"
+  },
+  "homepage": "https://github.com/bclabs-org/eslint-config-bclabs#readme",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.43.0",
+    "@typescript-eslint/parser": "^5.43.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.27.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.5.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.31.10",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.7.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
