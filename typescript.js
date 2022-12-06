@@ -5,6 +5,7 @@ module.exports = {
     './recommends/base',
     './rules/typescript',
     './rules/es6',
+    './rules/best-practices',
     './rules/imports',
     './rules/react',
     './rules/react-hooks',
