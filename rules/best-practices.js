@@ -1,5 +1,5 @@
 module.exports = {
   rules: {
-    'no-duplicate-imports': 'error',
+    'class-methods-use-this': 0,
   }
 };
