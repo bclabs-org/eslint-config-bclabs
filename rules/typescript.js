@@ -18,7 +18,7 @@ module.exports = {
     ],
     camelcase: 'off',
     '@typescript-eslint/consistent-type-assertions': 'off',
-    '@typescript-eslint/explicit-function-return-type': 'warn',
+    '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/member-delimiter-style': 'off',
     'no-array-constructor': 'off',
     '@typescript-eslint/no-array-constructor': 'error',
