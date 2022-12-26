@@ -3,8 +3,8 @@ module.exports = {
   plugins: ['@typescript-eslint'],
   extends: [
     './recommends/base',
-    './rules/base',
     './rules/typescript',
+    './rules/base',
   ].map((e) => require.resolve(e)),
   env: {
     node: true,

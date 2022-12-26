@@ -5,6 +5,6 @@ module.exports = {
     './imports',
     './react',
     './react-hooks',
-    'prettier',
+    './prettier',
   ].map((e) => require.resolve(e)),
 };
