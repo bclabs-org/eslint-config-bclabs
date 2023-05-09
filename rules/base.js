@@ -6,5 +6,6 @@ module.exports = {
     './react',
     './react-hooks',
     './prettier',
+    './style'
   ].map((e) => require.resolve(e)),
 };
