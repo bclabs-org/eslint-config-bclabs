@@ -7,5 +7,6 @@ module.exports = {
     'import/imports-first': 'off',
     'import/extensions': 'off',
     'import/no-webpack-loader-syntax': 'off',
+    'import/prefer-default-export': 'off',
   },
 };
