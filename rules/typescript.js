@@ -30,6 +30,7 @@ module.exports = {
     '@typescript-eslint/no-misused-new': 'error',
     '@typescript-eslint/no-namespace': 'error',
     '@typescript-eslint/no-non-null-assertion': 'warn',
+    'no-shadow': 'off', // replaced by '@typescript-eslint/no-shadow'
     '@typescript-eslint/no-shadow': [
       'error',
       {
